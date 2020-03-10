@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"t_game_confing.d","text":"declare namespace dt {\r\n\texport interface GameConfing {\r\n\t\treadonly id:number;\r\n\t\treadonly cd:number;\r\n\t}\r\n}\r\n"}

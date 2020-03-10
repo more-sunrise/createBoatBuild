@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"t_buff_type.d","text":"declare namespace dt {\r\n\texport interface BuffType {\r\n\t\treadonly id:number;\r\n\t\treadonly name:string;\r\n\t}\r\n}\r\n"}

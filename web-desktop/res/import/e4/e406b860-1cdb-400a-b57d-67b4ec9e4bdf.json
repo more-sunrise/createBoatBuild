@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"t_order_template.d","text":"declare namespace dt {\r\n\texport interface OrderTemplate {\r\n\t\t/**\r\n\t\t*作者:<br>\r\n\t\t*ID规则 自增编号+等级<br>\r\n\t\t**/\r\n\t\treadonly id:number;\r\n\t\treadonly ship_id:string;\r\n\t\treadonly wood_min_req:number;\r\n\t\treadonly wood_max_req:number;\r\n\t}\r\n}\r\n"}

@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"t_work_template.d","text":"declare namespace dt {\r\n\texport interface WorkTemplate {\r\n\t\treadonly id:number;\r\n\t\treadonly name:string;\r\n\t\treadonly time:number;\r\n\t\treadonly money_get:number;\r\n\t}\r\n}\r\n"}

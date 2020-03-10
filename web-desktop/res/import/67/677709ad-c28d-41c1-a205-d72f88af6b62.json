@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"t_joke_template.d","text":"declare namespace dt {\r\n\texport interface JokeTemplate {\r\n\t\treadonly id:number;\r\n\t\treadonly content:string;\r\n\t}\r\n}\r\n"}

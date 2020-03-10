@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"t_achievement_quest_up_template.d","text":"declare namespace dt {\r\n\texport interface AchieventQuestUpTemplate {\r\n\t\treadonly id:number;\r\n\t\treadonly type_id:number;\r\n\t\treadonly idx:number;\r\n\t\treadonly item_id:number;\r\n\t\treadonly num:number;\r\n\t\treadonly stars:number;\r\n\t\treadonly money:number;\r\n\t}\r\n}\r\n"}
